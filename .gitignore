@@ -1,0 +1,35 @@
+## .NET
+bin/
+obj/
+publish/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## NuGet
+*.nupkg
+**/packages/*
+project.lock.json
+project.fragment.lock.json
+
+## VS Code
+.vscode/
+
+## Rider
+.idea/
+
+## Secrets / environment-specific config
+appsettings.Development.json
+
+## OS files
+.DS_Store
+Thumbs.db
