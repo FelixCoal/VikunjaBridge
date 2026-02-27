@@ -75,6 +75,7 @@ public class PrepareService
               "tasks": [
                 {
                   "title": "string (required, concise task title)",
+                  "reasoning": "string (your thought process for extracting this task)",
                   "description": "string or null (optional, extra details)",
                   "project_id": number or null (optional, must be an id from the projects list below),
                   "label_ids": [number] or null (optional, must be ids from the labels list below),

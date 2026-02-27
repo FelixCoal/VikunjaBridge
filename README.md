@@ -1,4 +1,4 @@
-# VikunjaBridge
+ # VikunjaBridge
 
 An API bridge that converts free-text input into structured [Vikunja](https://vikunja.io/) tasks using an LLM (Together.ai with Llama 3.3 70B).
 
