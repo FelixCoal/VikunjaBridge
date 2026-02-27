@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VikunjaBridge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18d4ed4db710f10f77c5606bff2a73c305606db2")]
 [assembly: System.Reflection.AssemblyProductAttribute("VikunjaBridge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VikunjaBridge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
